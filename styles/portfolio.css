@@ -15,6 +15,12 @@ h2 {
   font-size: 30px;
   color: white;
 }
+h3 {
+  font-size: 20px;
+  padding-top: 15px;
+  text-align: center;
+  color: white;
+}
 
 .about-h1 {
   font-size: 38px;
@@ -29,13 +35,6 @@ h2 {
 .work-h1 {
   font-size: 42px;
   text-align: center;
-}
-
-h3 {
-  font-size: 20px;
-  padding-top: 15px;
-  text-align: center;
-  color: white;
 }
 
 .hero {
@@ -58,7 +57,6 @@ h3 {
   padding: 9px;
   border-radius: 5px;
   text-align: center;
-
   text-decoration: none;
   display: block;
 }
