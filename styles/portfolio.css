@@ -1,0 +1,128 @@
+body {
+  background: black;
+}
+
+.about-section {
+  padding: 15px 110px 15px 110px;
+}
+h1,
+h2,
+h3 {
+  color: wheat;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 55px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.about-h1 {
+  font-size: 38px;
+  text-align: center;
+}
+
+.about-h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.work-h1 {
+  font-size: 42px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+  padding-top: 15px;
+}
+
+.hero {
+  text-align: center;
+  background-color: black;
+}
+
+.btn-light {
+  background-color: black;
+  border: white solid 1px;
+  margin-bottom: 45px;
+  color: white;
+}
+
+.about-btn {
+  background-color: black;
+  border: white solid 1px;
+  margin-bottom: 45px;
+  color: white;
+  padding: 9px;
+  border-radius: 5px;
+  text-align: center;
+
+  text-decoration: none;
+  display: block;
+}
+
+.about-btn:hover {
+  background-color: wheat;
+  color: black;
+}
+.text-center {
+  color: bisque;
+  font-size: 25px;
+}
+
+.btn:hover {
+  background-color: wheat;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+hr {
+  color: white;
+  margin: 45px;
+}
+
+.mb-5 {
+  color: white;
+  text-align: center;
+  font-size: 28px;
+  line-height: 40px;
+}
+
+.mb-5-p {
+  font-size: 18px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.btn-branding-outline {
+  background-color: white;
+  border: white solid 1px;
+  position: relative;
+  left: 8px;
+  margin-top: 25px;
+}
+
+.btn-branding-outline:hover {
+  background-color: wheat;
+}
+
+img {
+  max-width: 100px;
+  max-height: 356px;
+
+  padding-left: 95px;
+}
+@media (max-width: 900px) {
+  .project-description {
+    padding: 0;
+    text-align: center;
+  }
+}
