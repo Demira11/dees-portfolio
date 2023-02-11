@@ -16,6 +16,7 @@ h3 {
 
 h2 {
   font-size: 30px;
+  color: white;
 }
 
 .about-h1 {
@@ -37,6 +38,7 @@ h3 {
   font-size: 20px;
   padding-top: 15px;
   text-align: center;
+  color: white;
 }
 
 .hero {
@@ -130,6 +132,7 @@ footer {
 }
 .social {
   padding: 15px;
+  color: black;
 }
 
 @media (max-width: 900px) {
