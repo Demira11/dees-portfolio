@@ -121,6 +121,12 @@ img {
 
   padding-left: 95px;
 }
+
+footer {
+  color: bklack;
+  text-align: center;
+  background-color: wheat;
+}
 @media (max-width: 900px) {
   .project-description {
     padding: 0;
