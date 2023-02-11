@@ -123,10 +123,15 @@ img {
 }
 
 footer {
-  color: bklack;
-  text-align: center;
   background-color: wheat;
+  text-align: center;
+  height: 50px;
+  font-weight: bold;
 }
+.social {
+  padding: 15px;
+}
+
 @media (max-width: 900px) {
   .project-description {
     padding: 0;
